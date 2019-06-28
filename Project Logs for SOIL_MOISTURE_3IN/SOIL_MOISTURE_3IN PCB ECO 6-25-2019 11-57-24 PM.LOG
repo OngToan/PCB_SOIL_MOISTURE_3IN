@@ -1,0 +1,3 @@
+Change Component Comment : Designator=P2 Old Comment=SENSOR INPUT New Comment=5V SIGNAL INPUT
+Change Component Comment : Designator=P4 Old Comment=SENSOR INPUT New Comment=ANALOG 5V INPUT
+Added Room: Name=U_SOIL_MOISTURE_3IN
